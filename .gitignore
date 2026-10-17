@@ -1,0 +1,24 @@
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local-only files kept out of the published repository
+AI_NOTES.md
+output1/
+extras*.png
+Ibrahim Mohamed Mahrous 2203186.pdf
